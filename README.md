@@ -32,3 +32,9 @@ Once you feel comfortable with React, you can then start learning Material UI, w
 Let's go step by step in setting up a project with Vite and Material UI: 
 
 1. Install Node.js: Ensure you have Node.js installed on your system. You can download and install it from the official website: (https://nodejs.org/en)
+
+2. Create a New Project: Open your terminal and create a new directory for your project. Navigate into the directory and initialize a new Node.js project by running the following commands:
+       
+       mkdir my-material-ui-project
+       cd my-material-ui-project
+       npm init -y
