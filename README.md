@@ -31,4 +31,4 @@ Once you feel comfortable with React, you can then start learning Material UI, w
 
 Let's go step by step in setting up a project with Vite and Material UI: 
 
-1. Install Node.js: Ensure you have Node.js installed on your system. You can download and install it from the official website:(https://nodejs.org/en)
+1. Install Node.js: Ensure you have Node.js installed on your system. You can download and install it from the official website: (https://nodejs.org/en)
