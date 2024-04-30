@@ -47,3 +47,4 @@ Let's go step by step in setting up a project with Vite and Material UI:
 4. Initialize Vite Project: Run the following command to initialize a new Vite project:
        
        npx create-vite@latest
+
