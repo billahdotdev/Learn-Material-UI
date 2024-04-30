@@ -50,3 +50,7 @@ Let's go step by step in setting up a project with Vite and Material UI:
 
 5. Choose Project Template: When prompted, select the "react" project template.
 
+6. Install Material UI: Once your project is set up, install Material UI and its peer dependencies:
+       
+       npm install @mui/material @emotion/react @emotion/styled
+
