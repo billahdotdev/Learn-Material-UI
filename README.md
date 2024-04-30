@@ -48,3 +48,5 @@ Let's go step by step in setting up a project with Vite and Material UI:
        
        npx create-vite@latest
 
+5. Choose Project Template: When prompted, select the "react" project template.
+
