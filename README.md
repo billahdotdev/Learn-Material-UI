@@ -43,3 +43,4 @@ Let's go step by step in setting up a project with Vite and Material UI:
 3. Install Vite: Install Vite, a next-generation frontend build tool:
        
        npm install --save-dev vite
+
