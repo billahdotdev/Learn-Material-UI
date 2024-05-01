@@ -88,3 +88,5 @@ Let's go step by step in setting up a project with Vite and Material UI:
        };
        
        export default App;
+
+10. View Changes: Check your browser to see the changes. You should see the Material UI Button rendered on the page.
