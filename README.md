@@ -57,3 +57,18 @@ Let's go step by step in setting up a project with Vite and Material UI:
 7. Start Development Server: Start the development server to see your project running:
        
        npm run dev
+   
+8. Create Components: Now that your project is set up, you can start creating Material UI components. For example, create a new file ButtonComponent.jsx in the src directory and add the following code to create a simple Material UI Button component:
+       
+       import React from 'react';
+       import Button from '@mui/material/Button';
+       
+       const ButtonComponent = () => {
+           return (
+               <Button variant="contained" color="primary">
+                   Hello Material UI
+               </Button>
+           );
+       };
+       
+       export default ButtonComponent;
