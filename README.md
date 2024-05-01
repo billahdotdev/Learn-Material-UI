@@ -72,3 +72,19 @@ Let's go step by step in setting up a project with Vite and Material UI:
        };
        
        export default ButtonComponent;
+
+9. Use Components: You can now use the ButtonComponent in your App.jsx file or any other component:
+       
+       import React from 'react';
+       import ButtonComponent from './ButtonComponent';
+       
+       const App = () => {
+           return (
+               <div>
+                   <h1>Welcome to My Material UI App</h1>
+                   <ButtonComponent />
+               </div>
+           );
+       };
+       
+       export default App;
