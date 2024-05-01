@@ -90,3 +90,5 @@ Let's go step by step in setting up a project with Vite and Material UI:
        export default App;
 
 10. View Changes: Check your browser to see the changes. You should see the Material UI Button rendered on the page.
+
+    That's it! You now have a basic project set up with Vite and Material UI. You can continue adding more components and building your application using Material UI's rich set of pre-designed components.
