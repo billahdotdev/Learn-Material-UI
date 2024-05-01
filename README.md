@@ -33,7 +33,8 @@ Once you're comfortable with JavaScript, you can start learning React, which is 
        componentDidUpdate, etc. For functional components, learn about useEffect.
     6. Event Handling: Understand how to handle events in React, like onClick, onChange, etc.
     7. Forms: Learn how to work with forms in React and manage form state.
-    8. React Router: Familiarize yourself with React Router for handling navigation in single-page applications.
+    8. React Router: Familiarize yourself with React Router for handling navigation in 
+       single-page applications.
 
 Once you feel comfortable with React, you can then start learning Material UI, which is a popular React UI framework based on Google's Material Design guidelines. Material UI provides pre-designed React components that you can use to build sleek and responsive user interfaces.
 
