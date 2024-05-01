@@ -53,4 +53,7 @@ Let's go step by step in setting up a project with Vite and Material UI:
 6. Install Material UI: Once your project is set up, install Material UI and its peer dependencies:
        
        npm install @mui/material @emotion/react @emotion/styled
-
+   
+7. Start Development Server: Start the development server to see your project running:
+       
+       npm run dev
