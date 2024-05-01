@@ -17,8 +17,8 @@ Before diving into Material UI, it's beneficial to have a solid understanding of
        elements, iterating through them, and accessing properties.
     6. ES6+ Features: Familiarize yourself with ES6 features like template literals, destructuring, 
        spread/rest operators, and object shorthand syntax.
-    7. Asynchronous JavaScript: Learn about promises, async/await, and how to work with asynchronous code using fetch for 
-       HTTP requests.
+    7. Asynchronous JavaScript: Learn about promises, async/await, and how to work with asynchronous 
+       code using fetch for HTTP requests.
     8. DOM Manipulation: Understand how to interact with the Document Object Model (DOM) using JavaScript to update and 
        modify HTML elements.
 
