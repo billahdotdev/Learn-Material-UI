@@ -18,7 +18,7 @@
 • Open-source and Production-ready: Material UI is an open-source library, free to use and well-maintained, making it a reliable choice for development projects. 
 
 
-## 1. Installation:
+## 1. Installation (In the REACT Project):
 • You can install Material-UI via npm or yarn:
   
   npm install @mui/material @emotion/react @emotion/styled
