@@ -83,10 +83,10 @@
 ◦ Cards
 
 ## 5. Styling:
-    • Material-UI components can be styled using various techniques:
-        ◦ Inline styles
-        ◦ CSS-in-JS with libraries like Styled-components or Emotion
-        ◦ Overriding default styles using makeStyles or withStyles higher-order components
+• Material-UI components can be styled using various techniques:
+◦ Inline styles
+◦ CSS-in-JS with libraries like Styled-components or Emotion
+◦ Overriding default styles using makeStyles or withStyles higher-order components
 
 
 ## 
