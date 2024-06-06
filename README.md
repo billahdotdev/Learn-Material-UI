@@ -28,6 +28,23 @@
   yarn add @mui/material @emotion/react @emotion/styled
 
 
+## 2. Basic Usage:
+• Import the components you need from Material-UI:
+
+import { Button, TextField, Typography } from '@mui/material';
+• Use them in your React components:
+
+const MyComponent = () => {
+return (
+  <div>
+    <Typography variant="h1">Hello, Material-UI!</Typography>
+    <Button variant="contained" color="primary">Click me</Button>
+    <TextField label="Enter your name" />
+  </div>
+);
+};
+
+
 
 
 
