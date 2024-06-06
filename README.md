@@ -48,7 +48,7 @@
 ## 3. Theming:
 • Material-UI allows you to customize the theme of your application to match your brand or preferences. You can use the ThemeProvider component to apply a custom theme:
 
-import { createTheme, ThemeProvider } from '@mui/material/styles';
+        import { createTheme, ThemeProvider } from '@mui/material/styles';
 
 const theme = createTheme({
 palette: {
