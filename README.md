@@ -70,7 +70,17 @@ return (
 };
 
 
-
+## 4. Components:
+    • Material-UI provides a wide range of components for building UIs. Some commonly used ones include:
+        ◦ Buttons
+        ◦ Textfields
+        ◦ Typography
+        ◦ Grid
+        ◦ AppBar
+        ◦ Drawer
+        ◦ Dialog
+        ◦ Tabs
+        ◦ Cards
 
 
 
