@@ -21,11 +21,11 @@
 ## 1. Installation (In the REACT Project):
 • You can install Material-UI via npm or yarn:
   
-  npm install @mui/material @emotion/react @emotion/styled
+          npm install @mui/material @emotion/react @emotion/styled
   
   or
   
-  yarn add @mui/material @emotion/react @emotion/styled
+          yarn add @mui/material @emotion/react @emotion/styled
 
 
 ## 2. Basic Usage:
@@ -87,4 +87,7 @@ return (
         ◦ Inline styles
         ◦ CSS-in-JS with libraries like Styled-components or Emotion
         ◦ Overriding default styles using makeStyles or withStyles higher-order components
+
+
+## 
 
