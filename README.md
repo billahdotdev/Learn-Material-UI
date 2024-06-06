@@ -31,7 +31,7 @@
 ## 2. Basic Usage:
 • Import the components you need from Material-UI:
 
-import { Button, TextField, Typography } from '@mui/material';
+        import { Button, TextField, Typography } from '@mui/material';
 • Use them in your React components:
 
 const MyComponent = () => {
