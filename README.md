@@ -50,24 +50,24 @@
 
         import { createTheme, ThemeProvider } from '@mui/material/styles';
 
-const theme = createTheme({
-palette: {
-  primary: {
-    main: '#1976d2',
-  },
-  secondary: {
-    main: '#f50057',
-  },
-},
-});
-
-const App = () => {
-return (
-  <ThemeProvider theme={theme}>
-    <MyComponent />
-  </ThemeProvider>
-);
-};
+        const theme = createTheme({
+        palette: {
+          primary: {
+            main: '#1976d2',
+          },
+          secondary: {
+            main: '#f50057',
+          },
+        },
+        });
+        
+        const App = () => {
+        return (
+          <ThemeProvider theme={theme}>
+            <MyComponent />
+          </ThemeProvider>
+        );
+        };
 
 
 ## 4. Components:
